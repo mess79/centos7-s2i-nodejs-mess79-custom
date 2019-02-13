@@ -1,4 +1,4 @@
-# OpenShift Builder Images for Node.js Applications
+# (Custom) OpenShift Builder Images for Node.js Applications
 
 [![Build Status](https://travis-ci.org/nodeshift/centos7-s2i-nodejs.svg?branch=master)](https://travis-ci.org/nodeshift/centos7-s2i-nodejs)
 [![](https://images.microbadger.com/badges/image/nodeshift/centos7-s2i-nodejs.svg)](https://microbadger.com/images/nodeshift/centos7-s2i-nodejs "Get your own image badge on microbadger.com")
